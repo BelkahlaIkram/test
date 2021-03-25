@@ -2,15 +2,9 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.IO;
-using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Runtime.Serialization.Json;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 
 
 namespace Update_Code_Insse
@@ -19,7 +13,7 @@ namespace Update_Code_Insse
     {
         static void Main(string[] args)
         {
-            String urlListOfferJobBoardIdst = "C:/Users/bouta/source/repos/Google_For_Job/Google_For_Job/ListOfferJobBoardIds.json";
+            String urlListOfferJobBoardIdst = @"..\ListCodeInsse.json";
 
             var serializert = new DataContractJsonSerializer(typeof(object));
             ElementResult elementResultt = new ElementResult();

@@ -731,11 +731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bouta\\source\\repos\\Update_Code_Insse\\Update_Code_Insse\\Update_Code_Insse.csproj",
+      "projectUniqueName": "C:\\Dev\\Github\\codeInsse\\test\\Update_Code_Insse\\Update_Code_Insse\\Update_Code_Insse.csproj",
       "projectName": "Update_Code_Insse",
-      "projectPath": "C:\\Users\\bouta\\source\\repos\\Update_Code_Insse\\Update_Code_Insse\\Update_Code_Insse.csproj",
+      "projectPath": "C:\\Dev\\Github\\codeInsse\\test\\Update_Code_Insse\\Update_Code_Insse\\Update_Code_Insse.csproj",
       "packagesPath": "C:\\Users\\bouta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bouta\\source\\repos\\Update_Code_Insse\\Update_Code_Insse\\obj\\",
+      "outputPath": "C:\\Dev\\Github\\codeInsse\\test\\Update_Code_Insse\\Update_Code_Insse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
