@@ -1,0 +1,11 @@
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\bin\Debug\netcoreapp2.1\Update_Code_Insse.deps.json
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\bin\Debug\netcoreapp2.1\Update_Code_Insse.runtimeconfig.json
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\bin\Debug\netcoreapp2.1\Update_Code_Insse.runtimeconfig.dev.json
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\bin\Debug\netcoreapp2.1\Update_Code_Insse.dll
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\obj\Debug\netcoreapp2.1\Update_Code_Insse.csprojAssemblyReference.cache
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\obj\Debug\netcoreapp2.1\Update_Code_Insse.csproj.CoreCompileInputs.cache
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\obj\Debug\netcoreapp2.1\Update_Code_Insse.AssemblyInfoInputs.cache
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\obj\Debug\netcoreapp2.1\Update_Code_Insse.AssemblyInfo.cs
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\bin\Debug\netcoreapp2.1\Update_Code_Insse.pdb
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\obj\Debug\netcoreapp2.1\Update_Code_Insse.dll
+C:\Users\bouta\source\repos\Update_Code_Insse\Update_Code_Insse\obj\Debug\netcoreapp2.1\Update_Code_Insse.pdb
