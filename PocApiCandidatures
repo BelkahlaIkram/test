@@ -1,0 +1,19 @@
+using System;
+
+public class NotificationTypeOne
+{
+    public Guid Id { get; set; }
+
+    public string Title { get; set; }
+
+    public string Email { get; set; }
+}
+
+public class NotificationTypeTwo
+{
+    public Guid Id { get; set; }
+
+    public string Title { get; set; }
+
+    public string JobBoard { get; set; }
+}
